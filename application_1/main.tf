@@ -18,3 +18,4 @@ variable "instance_type" {}
 variable "application_name" {}
 variable "environment" {}
 variable "dynamo_table_name" {}
+variable "security_group_name" {}
